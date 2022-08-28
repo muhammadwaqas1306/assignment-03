@@ -2,6 +2,6 @@ matplotlib
 numpy 
 pandas 
 plotly.express
-re
+regex
 nltk
 spacy
