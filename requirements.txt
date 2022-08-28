@@ -1,0 +1,7 @@
+matplotlib
+numpy 
+pandas 
+plotly.express
+re
+nltk
+spacy
